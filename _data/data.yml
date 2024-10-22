@@ -1,20 +1,17 @@
-name: test test test 
+name: Maria Anastasia Stefani
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
-
+  email: stefan@ceid.upatras.gr 
+  github: mariassastefani
+  linkedin: mariassastefani
+  
 languages:
+  - idiom: Greek (native)
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  
 
 education:
   - degree: MSc in Informatics
