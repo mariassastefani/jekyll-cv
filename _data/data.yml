@@ -4,24 +4,24 @@ fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: stefan@ceid.upatras.gr
+  github: mariassastefani
+  linkedin: mariassastefani
+  
  
 
 languages:
   - idiom: English
-  - idiom: Russian
+  - idiom: Greek (native)
  
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: MSc in Human-Computer Interaction
+    time: 2023 - present
+    university: University of Patras 
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Computer Engineering & Informatics Department - Integrated Master 
+    time: 2012-2017
+    university: University of Patras
 
 # Profile
 profile: |
