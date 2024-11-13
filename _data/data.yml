@@ -59,7 +59,11 @@ experience:
     technologies_used: | 
       Meta Ads Manager, Google Ads, DV360 Platform
 
-
+publications:
+  - title: CFRS: A Trends-Driven Collaborative Fashion Recommendation System
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
 
 
 
