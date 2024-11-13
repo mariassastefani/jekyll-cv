@@ -25,7 +25,8 @@ education:
 profile: |
   test test test 
 
- 
+ # Experience
+experience:
   - role: Digital Media Executive
     time: 2019-2022
     company: ForestView, a TDG Company
