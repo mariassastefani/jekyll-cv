@@ -44,20 +44,20 @@ experience:
         performance indicators (KPIs) for their media campaigns, crafting customized approaches 
         that support their specific requirements and maximize campaign impact.
     technologies_used: | 
-      Meta Ads Manager, Tik Tok Ads Manager, Google Ads, Programmatic Advertising, SEO 
+      Meta Ads Manager, Tik Tok Ads Manager, Google Ads, Programmatic Advertising, SEO, Canvas
   
         
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Digital Media Executive
+    time: 2019-2022
+    company: ForestView, a TDG Company
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+        Develop strategically sound and innovative paid media campaigns for diverse agency clients 
+        across various industries, with a focus on data-driven and audience-centric planning. Take 
+        ownership of responding to client media briefs, aligning with their objectives and 
+        demonstrating expertise in media solutions. Oversee the full campaign lifecycle—from setup 
+        and implementation to optimization and reporting—across digital platforms such as Meta, Google Ads, DV360, TikTok, and more.
     technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Meta Ads Manager, Google Ads, DV360 Platform
 
 publications:
   - title: Random title of paper. An interesting one.
